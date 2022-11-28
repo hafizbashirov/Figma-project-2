@@ -100,6 +100,28 @@ ul {
     position: absolute;
 }
 
+
+@media only screen and (max-width: 1264px) {
+    .button{
+        margin-left: 81%;
+    }
+
+    .arrow{
+        margin-left: 88%;
+    }
+
+    .login{
+        margin-left: 77%;
+    }
+
+    /* .women1, .jj, .pro, .fb, .insta, .twt{
+        margin-left: 18%;
+    } */
+
+    .women3{
+        margin-left: 80%;
+    }
+}
 .fbf {
     width: 142px;
     height: 24px;
@@ -310,6 +332,39 @@ ul {
     margin-top: 880px;
     margin-left: 1395px;
     color: #FFFFFF;
+}
+@media only screen and (max-width: 1560px) {
+    .th15 {
+        margin-left: 18%;
+    }
+
+    .hc {
+        margin-left: 21%;
+    }
+
+    .th150 {
+        margin-left: 45%;
+    }
+
+    .mv {
+        margin-left: 45.5%;
+    }
+
+    .fn15 {
+        margin-left: 67%;
+    }
+
+    .cw {
+        margin-left: 66.2%;
+    }
+
+    .ps100 {
+        margin-left: 86.3%;
+    }
+
+    .tp {
+        margin-left: 86.3%;
+    }
 }
 
 .experts {
@@ -1198,39 +1253,6 @@ ul {
     cursor: pointer;
 }
 
-@media only screen and (max-width: 1560px) {
-    .th15 {
-        margin-left: 18%;
-    }
-
-    .hc {
-        margin-left: 21%;
-    }
-
-    .th150 {
-        margin-left: 45%;
-    }
-
-    .mv {
-        margin-left: 45.5%;
-    }
-
-    .fn15 {
-        margin-left: 67%;
-    }
-
-    .cw {
-        margin-left: 66.2%;
-    }
-
-    .ps100 {
-        margin-left: 86.3%;
-    }
-
-    .tp {
-        margin-left: 86.3%;
-    }
-}
 
 @media only screen and (max-width: 1454px) {
     .button{
@@ -1246,24 +1268,3 @@ ul {
     }
 }
 
-@media only screen and (max-width: 1264px) {
-    .button{
-        margin-left: 81%;
-    }
-
-    .arrow{
-        margin-left: 88%;
-    }
-
-    .login{
-        margin-left: 77%;
-    }
-
-    /* .women1, .jj, .pro, .fb, .insta, .twt{
-        margin-left: 18%;
-    } */
-
-    .women3{
-        margin-left: 80%;
-    }
-}
