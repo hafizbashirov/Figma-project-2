@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
-.hero3 {
+.main {
     position: absolute;
     left: 0px;
     right: 0px;
@@ -12,7 +12,7 @@
     background-size: cover;
 }
 
-.brname {
+.name {
     position: absolute;
     width: 145px;
     height: 32px;
@@ -91,7 +91,7 @@ ul {
     cursor: pointer;
 }
 
-.vector {
+.arrow {
     background-image: url(../img/vector.png);
     height: 10px;
     width: 12px;
@@ -151,7 +151,7 @@ ul {
     align-items: center;
     padding: 15px 40px;
     gap: 10px;
-    width: 136px;
+    width: 150px;
     height: 52px;
     font-family: 'Montserrat';
     font-style: normal;
@@ -366,7 +366,7 @@ ul {
     margin-left: 198px;
 }
 
-.abg1 {
+.man1 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -595,7 +595,7 @@ ul {
     cursor: pointer;
 }
 
-.tt {
+.twt {
     background-image: url(../img/tt.png);
     position: absolute;
     margin-top: 1592px;
@@ -605,7 +605,7 @@ ul {
     cursor: pointer;
 }
 
-.tt2 {
+.twt2 {
     background-image: url(../img/tt.png);
     position: absolute;
     margin-top: 1592px;
@@ -615,7 +615,7 @@ ul {
     cursor: pointer;
 }
 
-.tt4 {
+.twt4 {
     background-image: url(../img/tt.png);
     position: absolute;
     margin-top: 1592px;
@@ -625,7 +625,7 @@ ul {
     cursor: pointer;
 }
 
-.tt3 {
+.twt3 {
     background-image: url(../img/tt.png);
     position: absolute;
     margin-top: 1592px;
@@ -635,7 +635,7 @@ ul {
     cursor: pointer;
 }
 
-.abg2 {
+.women2 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -656,7 +656,7 @@ ul {
     background-position: -1px 0px;
 }
 
-.abg3 {
+.women3 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -677,7 +677,7 @@ ul {
     background-position: -1px 0px;
 }
 
-.abg4 {
+.women4 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -724,7 +724,7 @@ ul {
     float: left;
 }
 
-.ci2 a {
+.legal2 a {
     text-decoration: none;
     font-family: 'Montserrat';
     font-style: normal;
@@ -741,7 +741,7 @@ ul {
     float: left;
 }
 
-.ci3 a {
+.features3 a {
     text-decoration: none;
     font-family: 'Montserrat';
     font-style: normal;
@@ -758,7 +758,7 @@ ul {
     float: left;
 }
 
-.ci4 a {
+.resources4 a {
     text-decoration: none;
     font-family: 'Montserrat';
     font-style: normal;
@@ -775,7 +775,7 @@ ul {
     float: left;
 }
 
-.ci5 a {
+.git5 a {
     text-decoration: none;
     font-family: 'Montserrat';
     font-style: normal;
@@ -826,7 +826,7 @@ ul {
     float: left;
 }
 
-.au3 a {
+.business3 a {
     text-decoration: none;
     width: 142px;
     height: 24px;
@@ -843,7 +843,7 @@ ul {
     float: left;
 }
 
-.au4 a {
+.ia4 a {
     text-decoration: none;
     width: 142px;
     height: 24px;
@@ -860,7 +860,7 @@ ul {
     float: left;
 }
 
-.au5 a {
+.number5 a {
     text-decoration: none;
     width: 142px;
     height: 24px;
@@ -921,7 +921,7 @@ ul {
     float: left;
 }
 
-.carrier3 a {
+.ua3 a {
     text-decoration: none;
     width: 95px;
     height: 24px;
@@ -938,7 +938,7 @@ ul {
     float: left;
 }
 
-.carrier4 a {
+.wad4 a {
     text-decoration: none;
     width: 108px;
     height: 24px;
@@ -955,7 +955,7 @@ ul {
     float: left;
 }
 
-.carrier5 a {
+.avenue5 a {
     text-decoration: none;
     width: 256px;
     height: 24px;
@@ -1016,7 +1016,7 @@ ul {
     float: left;
 }
 
-.wah3 a {
+.live3 a {
     text-decoration: none;
     width: 97px;
     height: 24px;
@@ -1033,7 +1033,7 @@ ul {
     float: left;
 }
 
-.wah4 a {
+.customers4 a {
     text-decoration: none;
     width: 97px;
     height: 24px;
@@ -1050,7 +1050,7 @@ ul {
     float: left;
 }
 
-.wah5 a {
+.holt5 a {
     text-decoration: none;
     width: 97px;
     height: 24px;
@@ -1111,7 +1111,7 @@ ul {
     float: left;
 }
 
-.blog3 a {
+.us3 a {
     text-decoration: none;
     width: 135px;
     height: 24px;
@@ -1128,7 +1128,7 @@ ul {
     float: left;
 }
 
-.blog4 a {
+.api4 a {
     text-decoration: none;
     width: 135px;
     height: 24px;
@@ -1188,7 +1188,7 @@ ul {
     cursor: pointer;
 }
 
-.tt5 {
+.twt5 {
     background-image: url(../img/tt.png);
     position: absolute;
     margin-top: -18px;
@@ -1232,12 +1232,12 @@ ul {
     }
 }
 
-@media only screen and (max-width: 1452px) {
+@media only screen and (max-width: 1454px) {
     .button{
         margin-left: 88%;
     }
 
-    .vector{
+    .arrow{
         margin-left: 95%;
     }
 
@@ -1246,12 +1246,12 @@ ul {
     }
 }
 
-@media only screen and (max-width: 1262px) {
+@media only screen and (max-width: 1264px) {
     .button{
         margin-left: 81%;
     }
 
-    .vector{
+    .arrow{
         margin-left: 88%;
     }
 
@@ -1259,11 +1259,11 @@ ul {
         margin-left: 77%;
     }
 
-    /* .wbg, .jj, .pro, .fb, .insta, .tt{
+    /* .women1, .jj, .pro, .fb, .insta, .twt{
         margin-left: 18%;
     } */
 
-    .abg3{
+    .women3{
         margin-left: 80%;
     }
 }
